@@ -1,0 +1,14 @@
+{
+    "models":{
+        "Supervised":{
+            "LinearRegression":{
+                "parameters":{
+                    "fit_intercept":"True",
+                    "copy_X": "True",
+                    "n_job":"None",
+                    "positive":"False"
+                }
+            }
+        }
+    }
+}
